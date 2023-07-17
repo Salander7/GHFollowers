@@ -1,4 +1,5 @@
 # GHFollowers
+/Users/didos/Desktop/unnamed.png
 
 An application about GitHub user profile, followers and favorites. Developed by using GitHub API for learning purposes. Built with UIKit.
 
