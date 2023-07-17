@@ -1,5 +1,6 @@
 # GHFollowers
-![unnamed](https://github.com/DDilbilir0700/GHFollowers/assets/136610570/94940181-bf93-4065-9eb0-93ff0d30ee14)
+![0](https://github.com/DDilbilir0700/GHFollowers/assets/136610570/91d922d4-9463-477e-a747-663e3e33c727)
+
 
 
 
