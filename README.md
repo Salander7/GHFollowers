@@ -1,5 +1,6 @@
 # GHFollowers
-![github](https://github.com/Salander7/Salander7/assets/136610570/b5a0bbc6-9a74-4e76-b9f6-8ce6580a5454)
+
+![Untitled-1](https://github.com/Salander7/Salander7/assets/136610570/188b7e51-4254-466d-87d8-6644f979a583)
 
 An application about GitHub user profile, followers and favorites. Developed by using GitHub API for learning purposes. Built with UIKit.
 
