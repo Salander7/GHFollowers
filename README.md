@@ -1,7 +1,7 @@
 # GHFollowers
 
 
-![unnamed](https://github.com/DDilbilir0700/GHFollowers/assets/136610570/17fc9f3e-b9a3-4e29-a21d-788f81311f5c)
+![github](https://github.com/Salander7/Salander7/assets/136610570/42020d68-dc79-48b4-981e-ef4f02239d67)
 
 An application about GitHub user profile, followers and favorites. Developed by using GitHub API for learning purposes. Built with UIKit.
 
